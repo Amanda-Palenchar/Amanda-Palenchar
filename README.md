@@ -9,7 +9,7 @@ Here is a quick breakdown of where the project stands:
 
 <u>
 
-## [Professional Portfolio](amanda-palenchar.github.io/)
+## [Professional Portfolio](https://amanda-palenchar.github.io/)
 Portfolio project utilizing HTML and CSS to showcase completed projects, resume, and overall skills.
 
 <u>
