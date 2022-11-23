@@ -1,11 +1,11 @@
 # Current Work: [Real Estate Project](https://github.com/Amanda-Palenchar/Real_Estate)
 The goal of this project is to determine if a connection exists between home values and the home proximity to a grocery store, specifically Trader Joe's and Walmart. Proximity to a grocery store, among other features (beds, baths, square footage), is then used to create a Flask App that will predict home prices.
 
-Here is a quick breakdown of where the project stands: 
-- [X] [Extract, Transform, Load of Data](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Data_Cleaning) 
-- [X] [Tableau Data visualization](https://public.tableau.com/app/profile/amanda.palenchar/viz/RealEstateProject_16686111659970/RealEstate)
-- [X] [Extra Tree Regressor Machine Learning Mdel](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Machine_Learning) 
-- [ ] Interactive website
+Here is a quick breakdown of the major pieces of the project: 
+- [X] [Extract, Transform, Load of Data](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Data_Cleaning): Jupyter Notebook, Pandas, Numpby, Plotly, Matplotlib, Seaborn
+- [X] [Data Visualization](https://public.tableau.com/app/profile/amanda.palenchar/viz/RealEstateProject_16686111659970/RealEstate): Tableau
+- [X] [Extra Tree Regressor Machine Learning Mdel](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Machine_Learning): Jupyter Notebook, Pandas, Sklearn
+- [ ] Interactive website: HTML, JavaScript, Flask, CSS
 
 <u>
 
