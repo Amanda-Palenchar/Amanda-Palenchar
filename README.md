@@ -1,10 +1,10 @@
-# Current Work: [Real Estate Project](https://github.com/dianahcortez/Real_Estate_Final_Project)
-With a group of 4 people, I am working to identify whether grocery stores (Trader Joe's or Walmart) affect the cost of housing, among other factors. 
+# Current Work: [Real Estate Project](https://github.com/Amanda-Palenchar/Real_Estate)
+The goal of this project is to determine if a connection exists between home values and the home proximity to a grocery store, specifically Trader Joe's and Walmart. Proximity to a grocery store, among other features (beds, baths, square footage), is then used to create a Flask App that will predict home prices.
 
 Here is a quick breakdown of where the project stands: 
-- [x] [Initial Real Estate, Trader Joe's, and Walmart data cleaning](https://github.com/dianahcortez/Real_Estate_Final_Project/blob/APBranch/Real_Estate_Data_Cleaning.ipynb) 
-- [X] [Initial machine learning model](https://github.com/dianahcortez/Real_Estate_Final_Project/blob/SR_branch/Machine%20Learning%20provisional%20model.ipynb) 
-- [ ] Data visualization
+- [X] [Extract, Transform, Load of Data](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Data_Cleaning) 
+- [X] [Tableau Data visualization](https://public.tableau.com/app/profile/amanda.palenchar/viz/RealEstateProject_16686111659970/RealEstate)
+- [X] [Extra Tree Regressor Machine Learning Mdel](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Machine_Learning) 
 - [ ] Interactive website
 
 <u>
