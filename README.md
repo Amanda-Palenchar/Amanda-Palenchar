@@ -4,7 +4,7 @@ The goal of this project is to determine if a connection exists between home val
 Here is a quick breakdown of the major pieces of the project: 
 - [X] [Extract, Transform, Load of Data](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Data_Cleaning): Jupyter Notebook, Pandas, Numpby, Plotly, Matplotlib, Seaborn
 - [X] [Data Visualization](https://public.tableau.com/app/profile/amanda.palenchar/viz/RealEstateProject_16686111659970/RealEstate): Tableau
-- [X] [Extra Tree Regressor Machine Learning Mdel](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Machine_Learning): Jupyter Notebook, Pandas, Sklearn
+- [X] [Extra Tree Regressor Machine Learning Model](https://github.com/Amanda-Palenchar/Real_Estate/tree/main/Machine_Learning): Jupyter Notebook, Pandas, Sklearn
 - [ ] Interactive website: HTML, JavaScript, Flask, CSS
 
 <u>
