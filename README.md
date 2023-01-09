@@ -15,6 +15,11 @@ Portfolio project utilizing HTML and CSS to showcase completed projects, resume,
 
 ## Additional Projects
 
+### [School Performance Analystis](https://github.com/Amanda-Palenchar/KIPP_Performance_Task)
+**Summary:** This analysis examines hypothetical MAP scores for a school system. The investigation identifies key trends in the data and provides visualizations to help a user digest and act on the findings.
+
+**Tools Used:** Python, R, Tableau
+  
 ### [Credit Risk Analysis](https://github.com/Amanda-Palenchar/MechaCar_Statistical_Analysis.git)
 **Summary:** This analysis uses a dataset with a variety of features and a target of loan status to model and compare a variety of types of machine learning and find the best model for the dataset.
 
